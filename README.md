@@ -1,1 +1,1 @@
-# se_project_pingpong_game
+# Ping Pong Python Game
